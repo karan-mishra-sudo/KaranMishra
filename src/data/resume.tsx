@@ -121,7 +121,7 @@ export const DATA = {
       },
       Resume: {
         name: "Resume",
-        url: "https://docs.google.com/document/d/1nUGHHB3Us8l8wJ8IH26cHFUGOQpAyLm7wRwouNJtoWo/edit?usp=sharing",
+        url: "https://docs.google.com/document/d/1YuJ76fjFVmZfqgZYsiCq3OV_ecl3_hki/edit",
         icon: Icons.googleDrive,
         navbar: true,
       },

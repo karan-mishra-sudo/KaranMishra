@@ -9,7 +9,7 @@ export const DATA = {
   location: "New Delhi",
   locationLink: "https://g.co/kgs/b9ZgYfj",
   description:
-    "Java developer at Mindstein Software Information Technology & Services | Pursuing MCA at Glocal University | Aspiring software engineer (SDE) | web development | Competitive programer | 300+ on leetcode.",
+    "Java developer at Mindstein Software Information Technology & Services | Pursuing MCA at Glocal University | Aspiring software engineer (SDE) | web development | Competitive programer | 350+ on leetcode.",
   summary:
     "Aspiring Software Engineer with a strong foundation in programming and web development. Proficient in multiple technologies including C, C++, Java, Python, and JavaScript, as well as frameworks like Node.js, Express.js, and databases such as MongoDB and SQL. Passionate about building innovative projects, from real-time chat applications to AI-driven tools and Chrome extensions, platform's etc",
   avatarUrl: "/karan.png",
@@ -136,11 +136,23 @@ export const DATA = {
 
   work: [
     {
+      company: "Credin",
+      href: "https://atomic.finance",
+      badges: [],
+      location: "Noida",
+      title: "Jr Software Developer",
+      logoUrl: "https://media.licdn.com/dms/image/v2/C510BAQE_hNce4zlqJg/company-logo_200_200/company-logo_200_200/0/1630634396812?e=1767225600&v=beta&t=RyUKLnKlYFxs9muDulKiibwTfwwnPhXfCYYKvL4gOEo",
+      start: "Dec 2025",
+      end: "Present",
+      description:
+        "Working as Junior Software Developer with hands-on experience in full-stack web development and DevOps, working primarily with the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, user-focused applications and contributing across the entire development lifecycle—from designing responsive frontends to developing robust backend APIs and deploying applications to the cloud.",
+    },
+    {
       company: "Mindstein Software Information Technology & Services",
       href: "https://atomic.finance",
       badges: [],
       location: "Remote",
-      title: "Java developer intern",
+      title: "Java Developer Intern",
       logoUrl: "https://mindstein.in/HomePage/storage/app/public/images/logo.png",
       start: "Feb 2025",
       end: "Aug 2025",
